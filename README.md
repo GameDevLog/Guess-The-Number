@@ -1,7 +1,7 @@
-# GameDevLogTemplete
+# Guess The Number
 ---
 
-游戏开发日志模板
+猜数字
 
 If you like, please give me a star. Thank you!
 
@@ -16,7 +16,8 @@ If you like, please give me a star. Thank you!
 
 ## ScreenShots / 最新游戏截图
 
-![Bomber Man](https://github.com/GameDevLog/BomberMan/raw/master/Screenshots/BomberMan.png)
+![Guess The Number](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/GuessTheNumber.gif)
+
 
 ## Games List / 游戏列表
 
